@@ -1,0 +1,50 @@
+header{
+    height: 80px;
+    width: 300px;
+    display: block;
+    background-color: whitesmoke;
+    text-align: center;
+    font-size:
+
+}
+nav{ 
+    background-color: black;
+    display: inline-block;
+    text-align: left;
+    width: 200px;
+    height: 100px;
+    text-decoration-color: ivory;
+    font-size: 16pt;
+}
+img{
+    height: 500px;
+    
+    border: 2px solid white;
+    border-color: white;
+
+    
+}
+p{
+    font-size: 16pt;
+    }
+
+    button{
+        height: 75px;
+        width: 150px;
+        background-color: rgb(230, 240, 236);
+        color:black;
+        position: relative;  
+        display: block;
+        margin: 0 auto;
+         
+          
+    
+
+    }
+    body{background-color: lightgreen
+    }
+    article{padding:10px}
+    .mypic{
+
+        width: 500px;
+    }

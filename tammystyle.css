@@ -1,0 +1,76 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add! */
+
+html {
+  height: 100%;
+}
+
+img{
+  width: 600px;
+  border: 5px solid rgb(0, 0, 0);
+}
+
+body {
+  height: 100%;
+}
+
+header {
+  color: white;
+  text-align: left;
+  background-color: rgb(70, 68, 68);
+  background-image: url("madscientist.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  padding: 50px;
+  font-size: 30pt;
+  display: block;
+}
+
+nav {
+  background-color: green;
+  width:175px;
+  height: 1000px;
+  display: inline-flex;
+  font-size: 18pt;
+  vertical-align: top;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+a {
+    color: white;
+}
+
+section {
+  width: 516px;
+  display: inline-block;
+  size: 300px;
+}
+
+aside {
+  width: 125px;
+  display: inline-block;
+  vertical-align: top;
+  background-color: blue;
+  font-size: 16pt;
+}
+
+aside ul {
+  list-style-type: none;
+}
+
+article {
+  border-image: 10px;
+}
+
+footer {
+  background-color: rgb(58, 56, 56);
+  color: white;
+  text-align: center;
+  font-size: 15pt;
+  padding: 10px;
+  display: block;
+}
